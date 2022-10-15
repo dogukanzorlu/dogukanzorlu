@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dogukanzorlu
-- 👀 I’m interested in build large scale, distributed systems, observability, concurrency and scientific software..
+- 👀 I’m interested in telecommunication, distributed systems, observability, concurrency and scientific software..
 - 🌱 I’m currently working on Elixir and Golang
 - 📫 You can reach me on dogukanzrlu@gmail.com
